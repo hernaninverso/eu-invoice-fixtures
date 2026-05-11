@@ -50,7 +50,7 @@ phive output: [validation excerpt]
 ## Usage
 
 ```bash
-git clone https://github.com/eleata/eu-invoice-fixtures.git
+git clone https://github.com/hernaninverso/eu-invoice-fixtures.git
 
 # Validate a known-valid file (should return valid: true)
 curl -X POST https://api.eleata.io/v1/validate?format=xrechnung-2.x \
